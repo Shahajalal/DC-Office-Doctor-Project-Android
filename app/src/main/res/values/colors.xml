@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="start_color">#a3b8ef</color>
+    <color name="end_color">#27d2b2</color>
+    <color name="white">#ffff</color>
+    <color name="black">#050505</color>
+    <color name="abedon_korun_btn">#1671f0</color>
+    <color name="porishonkan_btn">#93268e</color>
+    <color name="green">#1C711C</color>
+    <color name="porishonak">#91DA12</color>
+    <color name="error_color">#ffdd2c00</color>
+</resources>

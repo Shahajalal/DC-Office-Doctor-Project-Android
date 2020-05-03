@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Doctor App</string>
+
+    <string name="ghore_thakun">\"ঘরে থাকুন</string>
+    <string name="nirapod_thakun">নিরাপদ থাকুন\"</string>
+
+    <string name="emergency_treatment">জরুরী চিকিৎসা সেবা</string>
+    <string name="karjokrom">কার্যক্রম</string>
+
+    <string name="ghore_bose_sheba">ঘরে বসে চিকিৎসা সেবা</string>
+    <string name="pete_abedon_korun">পেতে আবেদন করুন</string>
+
+    <string name="abedon_korun">আবেদন করুন</string>
+    <string name="porishonkan">পরিসংখ্যান</string>
+    <string name="login">লগইন</string>
+
+
+    <string name="ayojone">আয়োজনেঃ </string>
+    <string name="jela_proshahok">জেলা প্রশাসক, খুলনা</string>
+    <string name="sishu_hospital">ও খুলনা শিশু হাসপাতাল</string>
+
+    <string name="tottho_din">তথ্য দিন</string>
+    <string name="name">নাম</string>
+    <string name="father_husband">পিতা / স্বামির নাম</string>
+    <string name="age">বয়স</string>
+    <string name="weight">ওজন</string>
+    <string name="mobile">মোবাইল নং</string>
+    <string name="gender">লিঙ্গ</string>
+    <string name="male">পুরুষ</string>
+    <string name="female">মহিলা</string>
+    <string name="others">অন্যান্য</string>
+    <string name="next">পরবর্তী পেইজে যান</string>
+
+    <string name="address">ঠিকানা</string>
+    <string name="roger_bonona">রোগের বর্ণনা</string>
+    <string name="patan">পাঠান</string>
+
+    <string-array name="doctor_designation">
+        <item>মেডিসিন বিশেষজ্ঞ</item>
+        <item>হৃদরোগ বিশেষজ্ঞ</item>
+        <item>মাথা বিশেষজ্ঞ</item>
+    </string-array>
+
+    <string-array name="doctor_name">
+        <item>ডাঃ এস এম কালাম</item>
+    </string-array>
+
+    <string name="mot">মোট</string>
+    <string name="abedonkari"> আবেদনকারী</string>
+    <string name="chikticha_peyeche">চিকিৎসা</string>
+    <string name="prodan_kora_hoyeche">প্রদান করা হয়েছে</string>
+    <string name="bishesoggo">বিশেষজ্ঞ</string>
+    <string name="chitchok">চিকিৎসক</string>
+
+    <string name="fip">Developed By Future IT Park</string>
+</resources>
